@@ -24,6 +24,17 @@ Tₕ Thush | ```λaf.fa``` = CI | Hold an Argument
 V Vireo | ```λabf.fab``` = BCT | Hold a Pair of Arguments
 B Blackbird | ```λfgab.f(gab)``` = BBB | 1 ← 2 Composition
 
-Essa tabela foi mostrada no video [Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=NWkinJJtfQg)
+### **Church Encodings: Booleans**
+
+Sym. | Name | λ-Calculus | Use
+-----|------|------------|----
+  T  | True | ```λab.a```| Encoding for True
+  F  | False| ```λab.b```| Encoding for False
+  -- | Not  | ```λp.pFT```| Negation
+  -- | And  | ```λpq.pqF``` or ```λpq.pqp```| Conjunction
+  -- | Or   | ```λpq.pTq``` or ```λpq.ppq```| Disjunction
+  -- | BEQ  | ```λpq.pq(NOT q)```| Equality
+
+Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=NWkinJJtfQg)
 
 ---
