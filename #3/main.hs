@@ -67,7 +67,7 @@ corpo a = take ((length a)-1) a
 divide a b = ((take b a) , (drop b a))
 
 --  @030 união
-uniao a b = (filter (\x -> x `notElem` b || x `elem` b) a) ++ (filter (\x -> x `notElem` a) b)
+uniao a b = (filter (\x -> x) a) ++ (filter (\x -> x `notElem` a) b)
 
 --  @031 intersec - intercessão entre listas
 intersec a b = filter (\x -> x `elem` b) a
