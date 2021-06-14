@@ -109,3 +109,8 @@ x
  
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%233/main.hs) 
 * [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%233/index.ts)
+
+> **#4. Faça as questões das categorias 05 do site: https://github.com/senapk/funcional_arcade**
+
+**Repostas**
+* [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%234/main.hs)
