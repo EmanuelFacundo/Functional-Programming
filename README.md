@@ -43,7 +43,7 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 
 **Resposta**
 
-* [![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%232/index.js)
+* [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%232/index.js)
 
 > **#3 Faça as questões das categorias 03 e 04 do site: https://github.com/senapk/funcional_arcade .**
 
