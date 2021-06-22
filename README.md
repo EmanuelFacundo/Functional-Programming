@@ -56,3 +56,8 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 
 **Repostas**
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%234/main.hs)
+
+> **#5 Faça as questões dos capítulos 6 a 9.**
+
+**Respostas**
+* [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%235)
