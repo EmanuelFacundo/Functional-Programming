@@ -25,3 +25,14 @@ concatFn fun xs = fn (map (\x -> fun x) xs)
   where 
     fn [] = []
     fn (y:ys) = y ++ fn ys
+
+--  09. Strings
+igual z s = map (\(x,y) -> if x == z then y else if y == z then y else '.') s
+
+--  @041 selec - apenas as chaves selecionadas
+selec :: String -> [Int] -> String
+selec s xs = map (\x -> (s !! x)) xs
+
+--  @042 isPalind - verificar palíndromo
+-- isPalind :: String -> Float 
+isPalind s = (init s) == (reverse (tail s))
