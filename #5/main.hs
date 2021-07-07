@@ -27,7 +27,10 @@ concatFn fun xs = fn (map (\x -> fun x) xs)
     fn (y:ys) = y ++ fn ys
 
 --  09. Strings
-igual z s = map (\(x,y) -> if x == z then y else if y == z then y else '.') s
+--  @039 upper
+upper s = concat $ map (\x -> filter (\x -> x /= ' ') (igual x (zip ['a'..'z'] ['A'..'Z']))  ) s
+
+igual z s = map (\(x,y) -> if x == z then y else if y == z then y else ' ') s
 
 --  @041 selec - apenas as chaves selecionadas
 selec :: String -> [Int] -> String
