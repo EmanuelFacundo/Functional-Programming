@@ -25,6 +25,24 @@ gerador5 x = unfoldr (\x -> if x > 0 then Just (x, (div x 2)) else Nothing) x
 --  [1,2,3,5,4,1,2]
 digitos n = reverse (unfoldr (\x-> if x <= 0 then Nothing else Just ((mod x 10),(div x 10))) n)
 
+--  @065 factors - fatores de um número
+--  factors 36 == [(2,2),(3,2)]
+--  factors 50 == [(2,1),(5,2)]
+factors n = rem $ zip (listD n) $ map (\x -> length $ filter (\c -> c==x ) $ listD n) $ listD n
+  where
+    rem [] = []
+    rem (x:xs) 
+      | x `elem` xs = rem xs
+      | otherwise = x : rem xs
+
+    listD n = unfoldr (\x -> if x > 1 then Just (diV x,(div x (diV x))) else Nothing) n
+    divisores n = [x | x <- [1..n], mod n x == 0] 
+    primo n = divisores n == [1,n]
+    primos n = [x | x <- [2..n], primo x] 
+    diV n = (filter (\x -> (mod n x) == 0) $ primos n) !! 0
+
+    -- 😨
+
 -- Cifra de Vigenere
 --  Exemplo
 
