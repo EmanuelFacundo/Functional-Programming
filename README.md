@@ -61,3 +61,7 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 
 **Respostas**
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%235)
+
+> **#7. #7 Ler o funcionamento das funções do @502 e fazer os códigos da atividade @076 do arcade.
+https://github.com/senapk/funcional_arcade#12-infinite-lists**
+* [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%237)
