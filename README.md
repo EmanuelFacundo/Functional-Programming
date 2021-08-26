@@ -45,7 +45,7 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 
 * [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://github.com/EmanuelFacundo/Functional-Programming/blob/main/%232/index.js)
 
-> **#3 Faça as questões das categorias 03 e 04 do site: https://github.com/senapk/funcional_arcade .**
+> **#3 Faça as questões das categorias 03 e 04 do site: https://github.com/senapk/funcional_arcade**
 
 **Respostas**
  
@@ -62,8 +62,12 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 **Respostas**
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%235)
 
-> **#7 Ler o funcionamento das funções do @502 e fazer os códigos da atividade @076 do arcade.
-https://github.com/senapk/funcional_arcade#12-infinite-lists**
+> **#7 Ler o funcionamento das funções do @502 e fazer os códigos da atividade @076 do arcade. https://github.com/senapk/funcional_arcade#12-infinite-lists**
 
 **Respostas**
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%237)
+
+> **#8 ler o capítulo 10 do site do tailorfontela e fazer a adaptação do projeto https://github.com/qxcodepoo/arcade/blob/master/base/002/Readme.md de poo para haskell.**
+
+**Respostas**
+* [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%238)
