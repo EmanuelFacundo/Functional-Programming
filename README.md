@@ -71,3 +71,8 @@ Tabelas foram mostradas no video [Lambda Calculus - Fundamentals of Lambda Calcu
 
 **Respostas**
 * [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%238)
+
+> **#9 armário para fazer agora no horário da aula.**
+
+**Respostas**
+* [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=999999)](https://github.com/EmanuelFacundo/Functional-Programming/tree/main/%239)
